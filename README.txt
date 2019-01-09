@@ -1,3 +1,6 @@
+
+Note: nowadays there's also https://github.com/pyAHP/pyAHP - you probably want to use that.
+
 Docs are in the "doc" directory in rst format.
 
 To get other formats such as html:
